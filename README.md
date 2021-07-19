@@ -1,2 +1,2 @@
-# MIT
+# mit
 Repo prueba MIT
